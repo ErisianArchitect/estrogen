@@ -1,10 +1,7 @@
-use std::fmt::Write;
-
 use proc_macro2::TokenStream;
 use syn::{
     parse::Parse,
     Token,
-    LitStr,
     Expr,
     bracketed,
 };

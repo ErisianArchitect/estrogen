@@ -1,5 +1,3 @@
-use std::fmt::Write;
-
 use syn::{
     parse::Parse,
     Expr,
