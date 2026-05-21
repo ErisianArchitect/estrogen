@@ -2,6 +2,10 @@
 [package]
 name = "estrogen"
 description = "A proc macro library for compile time string generation."
+authors = ["Ada F. <https://github.com/ErisianArchitect>"]
+repository = "https://github.com/ErisianArchitect/estrogen"
+documentation = "https://docs.rs/estrogen"
+license-file = "LICENSE"
 version = "0.1.0-indev"
 edition = "2024"
 
