@@ -1,0 +1,17 @@
+
+[package]
+name = "estrogen"
+description = "A proc macro library for compile time string generation."
+version = "0.1.0-indev"
+edition = "2024"
+
+[lib]
+crate-type = ["proc-macro"]
+
+[dependencies]
+proc-macro2 = "1.0.106"
+quote = "1.0.45"
+regex = "1.12.3"
+syn = { version = "2.0.117", features = ["full"] }
+uranus = "0.1.0"
+utf8next = "1.0.0"
