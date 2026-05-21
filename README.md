@@ -1,4 +1,4 @@
-# E*STR*O*GEN*
+# E<ins>STR</ins>O<ins>GEN</ins>
 
 A library for compile time string generation.
 
