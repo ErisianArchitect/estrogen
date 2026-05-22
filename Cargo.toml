@@ -8,7 +8,7 @@ documentation = "https://docs.rs/estrogen"
 license-file = "LICENSE"
 # TODO: patch change not yet applied! Apply before publish.
 publish = false
-version = "0.1.0-indev"
+version = "0.1.1-indev"
 edition = "2024"
 
 [lib]
@@ -20,4 +20,3 @@ quote = "1.0.45"
 regex = "1.12.3"
 syn = { version = "2.0.117", features = ["full"] }
 uranus = "0.1.0"
-utf8next = "1.0.0"

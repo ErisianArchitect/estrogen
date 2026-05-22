@@ -13,14 +13,13 @@ dependencies = [
 
 [[package]]
 name = "estrogen"
-version = "0.1.0-indev"
+version = "0.1.1-indev"
 dependencies = [
  "proc-macro2",
  "quote",
  "regex",
  "syn",
  "uranus",
- "utf8next",
 ]
 
 [[package]]
@@ -103,9 +102,3 @@ dependencies = [
  "quote",
  "syn",
 ]
-
-[[package]]
-name = "utf8next"
-version = "1.0.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "d157fd43313b7e6e5a670cada04d3a74eef0d331b7a63402a3f18df05de7d691"
