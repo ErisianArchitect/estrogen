@@ -6,8 +6,7 @@ authors = ["Ada F. <https://github.com/ErisianArchitect>"]
 repository = "https://github.com/ErisianArchitect/estrogen"
 documentation = "https://docs.rs/estrogen"
 license-file = "LICENSE"
-# TODO: patch change not yet applied! Apply before publish.
-publish = false
+publish = true
 version = "0.1.1-indev"
 edition = "2024"
 
