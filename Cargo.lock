@@ -94,9 +94,9 @@ checksum = "e6e4313cd5fcd3dad5cafa179702e2b244f760991f45397d14d4ebf38247da75"
 
 [[package]]
 name = "uranus"
-version = "0.1.0"
+version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6368f3813697814c9e57f3bb3177eede6ee80236ea9feab9a49a5fb801cc0056"
+checksum = "0c83779d1a5cf47f196fed07cd07f90fec10b4a9c3476f8b29282c9735795e82"
 dependencies = [
  "proc-macro2",
  "quote",
